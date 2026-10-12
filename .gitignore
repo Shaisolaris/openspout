@@ -2,9 +2,10 @@
 /coverage
 /tests/**/resources/generated_*
 /vendor
-/.env
 /.php-cs-fixer.cache
 /.phpunit.result.cache
 /composer.lock
 /infections.log
 /.idea
+config.bat
+node_modules
